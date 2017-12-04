@@ -1,0 +1,3 @@
+project=rubypow
+test=minitest
+template=slim

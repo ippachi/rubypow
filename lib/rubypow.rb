@@ -1,0 +1,2 @@
+module Rubypow
+end
